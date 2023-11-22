@@ -31,6 +31,7 @@ A simple app to keep track of destinations I'd like to visit.
 
 
 مع سلام :
-تاريخ 2023/8/22
+تاريخ 21/11/2023
+40
 
 10 + 50 الف
